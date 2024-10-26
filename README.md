@@ -1,1 +1,1 @@
-# caco2ml
+Repository for archiving the main code chunks used for the local and global machine learning models in the publication "Exploring the Potential of Adaptive, Local Machine Learning (ML) in Comparison ton the Prediction Performance of Global Models: A Case Study from Bayer's Caco-2 Permeability Database" published in ACS Journal of Chemical Information and Modeling (JCIM).
