@@ -1,5 +1,5 @@
 # "Exploring the Potential of Adaptive, Local Machine Learning (ML) in Comparison to the Prediction Performance of Global Models: A Case Study from Bayer's Caco-2 Permeability Database"
-## _American Chemical Society (ACS): Journal of Chemical Information an Modeling (JCIM)_
+## _American Chemical Society (ACS): Journal of Chemical Information and Modeling (JCIM)_
 ### **_Frank Filip Steinbauer, Thorsten Lehr, Andreas Reichel_**
 ### [DOI PLACEHOLDER]
 
