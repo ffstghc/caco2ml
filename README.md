@@ -1,7 +1,8 @@
 # "Exploring the Potential of Adaptive, Local Machine Learning (ML) in Comparison to the Prediction Performance of Global Models: A Case Study from Bayer's Caco-2 Permeability Database"
 ## _American Chemical Society (ACS): Journal of Chemical Information and Modeling (JCIM)_
 ### **_Frank Filip Steinbauer, Thorsten Lehr, Andreas Reichel_**
-### [DOI PLACEHOLDER] - revised manuscript submitted 27-Oct-2024
+### http://pubs.acs.org/doi/abs/10.1021/acs.jcim.4c01083
+
 
 Repository for archiving the main code chunks used for the local and global machine learning models in the publication **_"Exploring the Potential of Adaptive, Local Machine Learning (ML) in Comparison ton the Prediction Performance of Global Models: A Case Study from Bayer's Caco-2 Permeability Database"_** published in 2024 in **_ACS Journal of Chemical Information and Modeling (JCIM)_** as 1st publication of my doctoral studies at Bayer.
 
