@@ -13,7 +13,7 @@ The five different included files contain the main code chunks for:
 4. Local model (training data selection via fixed amounts of most similar structuress)
 5. Local model (training data selection via kNN<sup>[2]</sup> as control/proof of superiority of the chosen tanimoto similarity approach)
 
-If you have further questions or need additional parts of the utilized code for your own studies, feel free to contact Filip.Steinbauer@bayer.com.
+If you have further questions or need additional parts of the utilized code for your own studies, feel free to contact "frst00007@uni-saarland.de".
 
 [1]: https://tdcommons.ai/single_pred_tasks/adme#caco-2-cell-effective-permeability-wang-et-al
 [2]: https://scikit-learn.org/dev/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
